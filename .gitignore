@@ -9,3 +9,6 @@ backend/node_modules/
 # Ignore log files
 logs/
 *.log
+
+# Ignore macOS metadata
+.DS_Store
